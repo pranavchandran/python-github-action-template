@@ -110,3 +110,5 @@
 2023-01-02 00:21:28,087 - __main__ - INFO - Weather in Berlin: 12.09
 2023-01-09 00:22:02,309 - __main__ - INFO - Token value: 1234
 2023-01-09 00:22:03,104 - __main__ - INFO - Weather in Berlin: 5.85
+2023-01-16 00:22:20,229 - __main__ - INFO - Token value: 1234
+2023-01-16 00:22:21,150 - __main__ - INFO - Weather in Berlin: 4.9
